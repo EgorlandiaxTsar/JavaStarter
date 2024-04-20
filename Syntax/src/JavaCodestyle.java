@@ -1,3 +1,4 @@
+// RUN ME!
 public class JavaCodestyle { // Correct
     public static final double PI_NUMBER = 3.14; // Correct
     public static final double piNumber = 3.14; // Wrong
